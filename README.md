@@ -1,5 +1,13 @@
 # Offline World Map for Kiwix (.ZIM)
 
+![Offline World Map running fully offline in Kiwix](offline_world_map_demo.gif)
+
+![Offline world map – global view](screenshot-world-map.png)
+![Offline satellite imagery – global view](screenshot-world-satellite.png)
+
+![Offline OpenStreetMap tiles – Tokyo](screenshot-tokyo-map.png)
+![Offline satellite imagery – Tokyo](screenshot-tokyo-satellite.png)
+
 This project provides an **offline, interactive world map** packaged as a single **ZIM file** for use with **Kiwix**.
 
 It demonstrates that the ZIM file format can be used not only for wiki-style content, but also to deliver a fully interactive, pan-and-zoom world map using standard web technologies.
