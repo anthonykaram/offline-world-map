@@ -47,12 +47,12 @@ Advantages:
 
 The ZIM file is available here:
 
-- Gumroad: https://anthonykaram.gumroad.com/l/offline_world_map
+- **Gumroad:** [Offline World Map – ZIM file](https://anthonykaram.gumroad.com/l/offline_world_map)
 
 ## Videos
 
-- Overview (v4): https://youtu.be/XYoBKyg8tH4
-- Early prototype (v1): https://youtu.be/5qq_W7qMxxs
+- **Overview (v4):** [Offline World Map for Kiwix](https://youtu.be/XYoBKyg8tH4)
+- **Early prototype (v1):** [Initial proof of concept](https://youtu.be/5qq_W7qMxxs)
 
 ## Licensing and attribution
 
@@ -75,4 +75,4 @@ Compilation, integration, and packaging © Anthony Karam.
 - **Category:** Offline maps / geographic reference
 - **Technologies:** Leaflet, OpenStreetMap, Sentinel-2
 - **Author:** Anthony Karam
-- **Canonical URL:** https://anthonykaram.github.io/offline-world-map/
+- **Canonical URL:** [https://anthonykaram.github.io/offline-world-map/](https://anthonykaram.github.io/offline-world-map/)
