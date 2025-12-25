@@ -64,3 +64,15 @@ Individual components are licensed separately:
 - Leaflet © Vladimir Agafonkin and contributors (BSD 2-Clause)
 
 Compilation, integration, and packaging © Anthony Karam.
+
+---
+
+## Project metadata
+
+- **Project name:** Offline World Map
+- **Format:** ZIM file
+- **Platform:** Kiwix (desktop and mobile)
+- **Category:** Offline maps / geographic reference
+- **Technologies:** Leaflet, OpenStreetMap, Sentinel-2
+- **Author:** Anthony Karam
+- **Canonical URL:** https://anthonykaram.github.io/offline-world-map/
