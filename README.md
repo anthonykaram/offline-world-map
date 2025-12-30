@@ -43,6 +43,10 @@ Advantages:
 - Fully offline pan-and-zoom navigation
 - Runs inside the Kiwix reader
 
+## Design decisions
+
+This project intentionally uses pre-rendered raster tiles rather than vector tiles. While vector tiles can significantly reduce storage requirements, they shift cost to client-side computation (geometry decoding, rendering, memory usage), which is difficult to predict across the wide range of devices that run Kiwix. By serving simple raster tiles from a ZIM file, the map remains lightweight to render and behaves consistently even on older or low-power devices. The large file size also acts as a natural capability filter: devices that can store tens or hundreds of gigabytes of tiles almost certainly have sufficient CPU and RAM to handle raster rendering smoothly. Additionally, because a substantial portion of the dataset is satellite imagery, which is inherently raster, vector tiles would not reduce total size as dramatically in this context. The goal is maximum compatibility and predictable performance rather than minimal disk usage.
+
 ## Downloads
 
 The ZIM file is available here:
