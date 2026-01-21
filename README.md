@@ -73,8 +73,9 @@ The ZIM file is available here:
 
 ## Videos
 
-- **Overview (v4):** [Offline World Map for Kiwix](https://youtu.be/XYoBKyg8tH4)
-- **Early prototype (v1):** [Initial proof of concept](https://youtu.be/5qq_W7qMxxs)
+- **Demo of v5 (which introduced search functionality):** [Offline World Map for Kiwix (v5)](https://youtu.be/hfey3ogmVC8)
+- **Demo of v4 (which added Leaflet-based navigation):** [Offline World Map for Kiwix (v4)](https://youtu.be/XYoBKyg8tH4)
+- **Demo of v1 (initial release):** [Offline World Map for Kiwix (v1)](https://youtu.be/5qq_W7qMxxs)
 
 ---
 
